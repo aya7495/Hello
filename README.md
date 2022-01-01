@@ -6,3 +6,5 @@ to list all tags : git tag
 to delete tag locaaly and remotely : git push origin --delete :tag_name:
 
 git taf -d :tag_name:
+
+![](cat.ping)
