@@ -7,4 +7,4 @@ to delete tag locaaly and remotely : git push origin --delete :tag_name:
 
 git taf -d :tag_name:
 
-![](cat.ping)
+![](images/cat.png)
